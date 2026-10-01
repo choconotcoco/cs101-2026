@@ -6,7 +6,7 @@ int main()
     
     if(a==10)
     {
-    	printf("a if equal to 10\n");
+    	printf("a is equal to 10\n");
 	}
 	else if(a<20)
 	{
